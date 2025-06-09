@@ -1,7 +1,7 @@
 :root {
-    --cor-principal: hsl(70, 77%, 31%);
-    --cor-secundaria: #ffee00;
-    --cor-destaque: #09ff00;
+    --cor-principal: hsl(125, 31%, 34%);
+    --cor-secundaria: #0eaa23;
+    --cor-destaque: #42ac22;
 }
 
 body {
